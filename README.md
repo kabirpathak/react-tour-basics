@@ -1,7 +1,7 @@
 A basic react app that implements a product tour using 'react-joyride'
 
 Screenshots : 
-<src = "https://user-images.githubusercontent.com/46262107/127624961-bef8bbc6-fcb7-484d-8e42-b5561b429491.png" width="100" height="100>
+<src = "https://user-images.githubusercontent.com/46262107/127624961-bef8bbc6-fcb7-484d-8e42-b5561b429491.png" width="25%">
 
 ![step2](https://user-images.githubusercontent.com/46262107/127624969-d0b17452-b119-448b-b104-63a0d7825c4b.png)
 
